@@ -1,0 +1,15 @@
+.cores { /*rgb*/
+    background-color: rgb(150,0,150);
+}
+
+.cores {
+    background-color: rgba(255,255,255,0.5);
+    /*50% transparente*/
+}
+
+/* Hexadecimal*/
+.cores {
+    background-color: #f000ff76;
+    /*FF = R, FF = G, FF = B
+    o final 76 é de transparência, exemplo F089F076*/
+}
